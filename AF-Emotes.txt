@@ -1,0 +1,18 @@
+.usertext-body a { display: inline-block }
+a[href^="#"] { cursor: default; display: inline-block; background-image: url(%%CSEmotes%%); background-repeat: no-repeat; background-position: -9999px -9999px; margin: 0 0px; content: " " }
+
+a[href$="#sp1"] { background-position: -0px -0px; width: 32px; height: 32px; }
+a[href$="#sp2"] { background-position: -0px -32px; width: 32px; height: 32px; }
+a[href$="#sp3"] { background-position: -0px -64px; width: 32px; height: 32px; }
+a[href$="#sp4"] { background-position: -32px -0px; width: 32px; height: 32px; }
+a[href$="#sp5"] { background-position: -32px -32px; width: 32px; height: 32px; }
+a[href$="#sp6"] { background-position: -32px -64px; width: 32px; height: 32px; }
+a[href$="#sp7"] { background-position: -64px -0px; width: 32px; height: 32px; }
+a[href$="#sp8"] { background-position: -64px -32px; width: 32px; height: 32px; }
+a[href$="#sp9"] { background-position: -64px -64px; width: 32px; height: 32px; }
+a[href$="#sp10"] { background-position: -96px -0px; width: 32px; height: 32px; }
+a[href$="#sp11"] { background-position: -96px -32px; width: 32px; height: 32px; }
+a[href$="#sp12"] { background-position: -96px -64px; width: 32px; height: 32px; }
+a[href$="#sp13"] { background-position: -128px -0px; width: 32px; height: 32px; }
+a[href$="#sp14"] { background-position: -128px -32px; width: 32px; height: 32px; }
+a[href$="#sp15"] { background-position: -128px -64px; width: 32px; height: 32px; }
